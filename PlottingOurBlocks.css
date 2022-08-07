@@ -1,0 +1,49 @@
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 10px, 10px auto;
+    padding: 3px;
+    overflow: hidden;
+    height: auto;
+}
+.top-nav {
+    height: 150px;
+    background-color: green;
+    margin: 10px;
+}
+.side-nav {
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    margin: 10px;
+    padding: 0px;
+    overflow: hidden;
+    float: left;
+}
+.main {
+    height: 400px;
+    width: 700px;
+    background-color: red; 
+    offset:10px;
+    margin: 10px;
+    padding:5px;
+    overflow: 20px;
+    float: right;
+}
+.sub-content {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    margin: 10px;
+    float: right;
+    overflow: 20px;
+}
+#advertisement {
+    height: 120px;
+    width: 660px;
+    background-color: purple;
+    margin: 10px, 20px;
+    padding:  20px;
+    overflow: hidden;
+}
+
